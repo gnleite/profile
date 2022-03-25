@@ -80,6 +80,10 @@ a:hover {
   margin: 20px;
 }
 
+.card p {
+  margin-bottom: 40px;
+}
+
 @media (max-width: 3000px) {
   .container {
     width: 900px;
